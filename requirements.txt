@@ -1,0 +1,4 @@
+Flask
+pandas
+xhtml2pdf
+openpyxl
